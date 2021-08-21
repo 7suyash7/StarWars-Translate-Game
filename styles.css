@@ -1,0 +1,47 @@
+textarea {
+    width: 90%;
+    height: 10vh;
+    display: flexbox;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    }
+    
+    #output {
+        border: 1px solid black;
+        height: 10vh;
+        border-radius: 0.5rem;
+        padding: 1rem;
+    margin: 1rem;
+    width: 90%;
+    border-color: black;
+     }
+    
+     #header {
+        background-color: black;
+       color: white;
+        background-size:10px;
+       margin: auto;
+       margin: auto;
+       padding: 2rem 2rem;
+       border-radius: 0.5rem;
+     }
+    
+     #txt-input {
+      border-color: black;
+    }
+    #btn-translate {
+        background-color: black;
+        color: white;
+    padding: 1rem 2rem;
+    display: centers;
+    }
+    
+    #footer {
+      background-color: black;
+      color: white;
+      position: center;
+      padding-top: 5rem;
+      text-align: center;
+    
+    }
