@@ -40,8 +40,10 @@ textarea {
     #btn-translate {
         background-color: black;
         color: white;
-    padding: 1rem 2rem;
-    display: centers;
+        padding: 1rem 2rem;
+        margin: auto;
+        display: block;
+
     }
     
     #footer {
